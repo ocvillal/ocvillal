@@ -1,6 +1,6 @@
 # Hi, I'm Octavio Villalobos 👋
 
-M.S. Computer Science student at UC Santa Cruz (GPA 3.85/4.00), building multi-agent AI systems, reinforcement learning pipelines, and applied LLM engineering — from research on emergent agent behavior to production RAG and fine-tuning workflows.
+A current AI engineer intern and a recent M.S. Computer Science student at UC Santa Cruz, building multi-agent AI systems, reinforcement learning pipelines, and applied LLM engineering, from research on emergent agentic behavior to production RAG and fine-tuning workflows.
 
 [LinkedIn](https://linkedin.com/in/octavio-villalobos/) · [Portfolio](https://ocvillal.github.io/) · octvillal@gmail.com
 
