@@ -34,7 +34,7 @@ Compared a custom phrase-based decoder (stack decoder + IBM Model 1 + trigram LM
 
 **Cloud & Infra:** GCP, AWS, Docker, Kubernetes, Linux
 
-**DevOps & Testing:** Git, GitHub Actions, CI/CD, Jenkins, Pytest, Jest
+**DevOps & Testing:** Git, GitHub Actions, CI/CD, Jenkins, Pytest
 
 **Concepts:** Machine Learning, Deep Learning, NLP, Reinforcement Learning, Multi-Agent Systems, RAG, LLM Fine-tuning, Prompt Engineering, Agentic Workflows
 
