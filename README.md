@@ -12,7 +12,7 @@ A current AI engineer intern and a recent M.S. Computer Science student at UC Sa
 A music diary app for logging albums, rating songs, and sharing listening activity with friends. Built with React Native (Expo) and Supabase, pulling charts and metadata from the Deezer, Spotify, and Last.fm APIs, with a social feed for following friends' activity.
 
 ### [FormulaForecast](https://github.com/NihalErnest89/Formula-Forecast)
-A deep neural network that predicts F1 top-10 race finishing positions from 9 engineered features (season form, track history, constructor strength, grid position). Trained on 2020-2024 seasons via the FastF1 API with time-aware cross-validation to prevent data leakage — achieves an MAE of 1.585 positions and 88.7% within-3 accuracy on 2025 test data.
+A deep neural network that predicts F1 top-10 race finishing positions from 9 engineered features (season form, track history, constructor strength, grid position). Trained on 2020-2024 seasons via the FastF1 API with time-aware cross-validation to prevent data leakage — achieves an MAE of 1.585 positions and 88.7% within-3 accuracy on 2025 test data. ([demo](https://nihalernest89.github.io/Formula-Forecast/))
 
 ### [LLMs are Autonomous Cyber Defenders](https://github.com/ocvillal/LLM-s-are-ACDs)
 Code artifact for a paper studying LLM and RL agents as Autonomous Cyber Defenders in CAGE-4, a multi-agent cybersecurity simulation built on CybORG. Extended the environment with an LLM agent framework and an 8-bit inter-agent communication protocol for real-time threat sharing across network zones, then benchmarked OpenAI, Ollama, and DeepSeek-backed agents against RL baselines. Published at **IEEE CAI 2025** ([arXiv:2505.04843](https://arxiv.org/abs/2505.04843)).
