@@ -32,7 +32,7 @@ Compared a custom phrase-based decoder (stack decoder + IBM Model 1 + trigram LM
 
 **AI/ML & GenAI:** PyTorch, TensorFlow, Scikit-learn, LangChain, LangGraph, Hugging Face, OpenAI API, Claude API, LoRA, QLoRA, Ollama, ChromaDB, MLflow, Weights & Biases
 
-**Cloud & Infra:** GCP, AWS, Docker, Kubernetes, Linux
+**Cloud & Infra:** AWS, Docker, Linux, GCP
 
 **DevOps & Testing:** Git, GitHub Actions, CI/CD, Jenkins, Pytest
 
