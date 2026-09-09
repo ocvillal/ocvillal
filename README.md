@@ -24,7 +24,7 @@ Compared a custom phrase-based decoder (stack decoder + IBM Model 1 + trigram LM
 
 ## 🛠️ Skills
 
-**Languages:** Python, C/C++, Java, JavaScript, TypeScript, C#, SQL, HTML/CSS, Angular
+**Languages:** Python, C/C++, Java, JavaScript, TypeScript, C#, SQL, HTML/CSS
 
 **Front-end:** React.js, React Native (Expo), Tailwind CSS, HTML5
 
