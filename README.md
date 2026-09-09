@@ -30,7 +30,7 @@ Compared a custom phrase-based decoder (stack decoder + IBM Model 1 + trigram LM
 
 **Backend & Databases:** FastAPI, Express.js, Node.js, RESTful APIs, PostgreSQL, Supabase
 
-**AI/ML & GenAI:** PyTorch, TensorFlow, Scikit-learn, LangChain, LangGraph, Hugging Face, OpenAI API, Claude API, LoRA, QLoRA, Ollama, ChromaDB, MLflow, Weights & Biases
+**AI/ML & GenAI:** PyTorch, TensorFlow, Scikit-learn, LangChain, LangGraph, Hugging Face, OpenAI API, Claude API, LoRA, QLoRA, Ollama, ChromaDB, MLflow, Weights & Biases, Pandas
 
 **Cloud & Infra:** AWS, Docker, Linux
 
