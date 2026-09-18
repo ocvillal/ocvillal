@@ -44,6 +44,7 @@ Compared a custom phrase-based decoder (stack decoder + IBM Model 1 + trigram LM
 
 - **LLMs are Autonomous Cyber Defense Agents** — IEEE Conference on Artificial Intelligence (CAI 2025) — [arXiv:2505.04843](https://arxiv.org/abs/2505.04843)
 - **Selma** - (AIIDE 2026)
+- **Reproducability In Games** - (AIIDE 2026)
 ---
 
 📫 Reach me at **octvillal@gmail.com**
