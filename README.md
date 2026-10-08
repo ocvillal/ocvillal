@@ -8,6 +8,10 @@ A current AI engineer intern and a recent M.S. Computer Science student at UC Sa
 
 ## 🚀 Featured Projects
 
+### [Chonk Fantasy](https://chonkfantasy.com/)
+A fantasy football app for start/sit calls, draft boards, and trade evaluation, backed by 60 LightGBM quantile models (QB/RB/WR/TE × 3 scoring formats × 5 percentiles). The models are trained on 2018–2025 nflverse data with 171 leakage-checked features and calibrated so the p10–p90 range covers 80% of games. Users connect their Sleeper leagues to get projections under their league's own scoring, best lineups, and win odds. A public scorecard grades every finished week, and so far the projections beat Sleeper's (4.0 vs 4.5 pt median error). Built with FastAPI, React + TypeScript, and Supabase, and deployed with Docker, Caddy, and GitHub Actions. It also has a LangGraph commissioner agent that answers league questions from live data. ([live](https://chonkfantasy.com) · [code](https://github.com/ocvillal/Brock))
+
+
 ### [Spindl](https://github.com/ocvillal/Spindl)
 A music diary app for logging albums, rating songs, and sharing listening activity with friends. Built with React Native (Expo) and Supabase, pulling charts and metadata from the Deezer, Spotify, and Last.fm APIs, with a social feed for following friends' activity.
 
@@ -17,8 +21,7 @@ A deep neural network that predicts F1 top-10 race finishing positions from 9 en
 ### [LLMs are Autonomous Cyber Defenders](https://github.com/ocvillal/LLM-s-are-ACDs)
 Code artifact for a paper studying LLM and RL agents as Autonomous Cyber Defenders in CAGE-4, a multi-agent cybersecurity simulation built on CybORG. Extended the environment with an LLM agent framework and an 8-bit inter-agent communication protocol for real-time threat sharing across network zones, then benchmarked OpenAI, Ollama, and DeepSeek-backed agents against RL baselines. Published at **IEEE CAI 2025** ([arXiv:2505.04843](https://arxiv.org/abs/2505.04843)).
 
-### [LMs-for-fun](https://github.com/ocvillal/LMs-for-fun)
-Compared a custom phrase-based decoder (stack decoder + IBM Model 1 + trigram LM) against a JoeyNMT attention model and a Marian NMT transformer for French–English translation, evaluating all three with BLEU and chrF. Built the full Marian pipeline — SentencePiece tokenization, Dockerized training on 100k OpenSubtitles pairs, and automated scoring. Team project with Nihal Ernest and Alex Pelyushenko.
+
 
 ---
 
